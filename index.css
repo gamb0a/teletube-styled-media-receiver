@@ -1,9 +1,9 @@
 .background {
-    background: center no-repeat url(manuel.png);
+    background: center no-repeat url(https://raw.githubusercontent.com/gamb0a/teletube-styled-media-receiver/master/manuel.png);
 }
 
 .logo {
-    background-image: url(gonzalo.png);
+    background-image: url(https://raw.githubusercontent.com/gamb0a/teletube-styled-media-receiver/master/gonzalo.png);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-    background-image: url(manuel.png);
+    background-image: url(https://raw.githubusercontent.com/gamb0a/teletube-styled-media-receiver/master/manuel.png);
 }
 
 .watermark {
-    background-image: url(gonzalo.png);
+    background-image: url(https://raw.githubusercontent.com/gamb0a/teletube-styled-media-receiver/master/gonzalo.png);
     background-size: 57px 57px;
 }
