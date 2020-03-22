@@ -1,0 +1,22 @@
+.background {
+    background: center no-repeat url(manuel.png);
+    background-repeat: repeat !important;
+    background-size: 130px !important;
+}
+
+.logo {
+    background-image: url(gonzalo.png);
+}
+
+.progressBar {
+    background-color: rgb(238, 255, 65);
+}
+
+.splash {
+    background-image: url(gonzalo.png);
+}
+
+.watermark {
+    background-image: url(gonzalo.png);
+    background-size: 57px 57px;
+}
